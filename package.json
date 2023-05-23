@@ -5,6 +5,8 @@
     "lodash": "4.14.0",
     "mkdirp": "0.3.3",
     "@mend-eicar/hello-world" : "1.0.0",
-    "get-lat-long": "0.0.2"
+    "get-lat-long": "0.0.2",
+    "coa": "2.1.1",
+    "ua-parser-js": "0.8.0"
   }
 }
